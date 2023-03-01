@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Rathod.
-- 💼 I'm currently a SWE Intern @ Headstarter. 
-- 🙋🏽‍♂️ Before SWE, I was a Senior Manager (Business Operations for IT Staffing) and a Research Scientist (SCAs and HIV-1).
-- 📫 sagarbrathod1@gmail.com | [LinkedIn](https://www.linkedin.com/in/sagarbrathod/) | [Personal Website](https://sagarrathod.site) | [Resume](https://github.com/sagarbrathod1/resume/blob/main/Resume%20-%20Sagar%20Rathod.pdf)
+- 💼 I'm a Software Engineer @ Atomic Object.
+- 🙋🏽‍♂️ Before SWE, I was a Senior Manager at an IT Staffing company and a Research Scientist studying Spinocerebellar Ataxias and HIV-1.
+- 📫 [Email](sagarbrathod1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sagarbrathod/) | [Website](https://sagarrathod.site) | [Resume](https://github.com/sagarbrathod1/resume/blob/main/Resume%20-%20Sagar%20Rathod.pdf)
 
 <!---
 sagarbrathod1/sagarbrathod1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
